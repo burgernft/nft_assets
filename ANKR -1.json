@@ -1,0 +1,18 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": ""
+		},
+		"description": {
+			"type": "string",
+			"description": ""
+		},
+		"image": {
+			"type": "string",
+			"description": "https://raw.githubusercontent.com/burgernft/nft_assets/master/ANKR%20-1.png"
+		}
+	}
+}
